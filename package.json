@@ -1,6 +1,6 @@
 {
   "name": "@mole-inc/webp-loader",
-  "version": "0.6.0",
+  "version": "1.0.0",
   "description": "WebP image loader & converter for Webpack",
   "main": "index.js",
   "scripts": {
